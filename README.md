@@ -1,22 +1,17 @@
-<h1 align = "center" >MY PORTFOLIO</h1>
+<h1>PORTFOLIO</h1>
 
-<br>
+Check my portfolio, there are all about me: https://misaelsantos.github.io/
 
 <p align = "center">
-Check my portfolio, there are all about me :kissing_heart: :
-<br>
-  <br>
-  https://misaelsantos.github.io/
+  <img src = "https://media.giphy.com/media/clnORRzuaBV7rNisCP/giphy.gif">
 </p>
 
 <br>
+   
+<h2> :memo: License</h2>
+  
+MIT LICENSE. See the file [LICENSE](https://github.com/MisaelSantos/misaelsantos.github.io/blob/master/LICENSE) for more details.
 
 <p align = "center">
-  <img src = "https://media.giphy.com/media/RhPvGbWK78A0/giphy.gif">
+  :sunglasses:<i>Make with ♥ by Misael Santos</i> <strong>2020</strong> :sunglasses: 
 </p>
-
-<br>
-
-This portfolio is based on :dizzy: :
-
-   https://github.com/helfi92/studorlio
