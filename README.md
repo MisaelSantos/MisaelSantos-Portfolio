@@ -1,6 +1,6 @@
 <h1>PORTFOLIO</h1>
 
-Check my portfolio, there are all about me: https://misaelsantos.github.io/
+Check my portfolio, there are all about me: https://misaelsantos.github.io/MisaelSantos-Portfolio/
 
 <p align = "center">
   <img src = "https://media.giphy.com/media/clnORRzuaBV7rNisCP/giphy.gif">
